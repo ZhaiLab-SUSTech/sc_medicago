@@ -15,4 +15,4 @@
       - rpy2 (Used to implement invocation of R packages in python environment)
       - clusterprofiler (Used to perform GO enrichment analysis)
 
-This [jupyter files](https://github.com/ZhaiLab-SUSTech/sc_medicago/tree/90df77c76c90af6c60c924fc37fa83061d2fc349/notebooks) contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, You can preview this file using nbviewer. 
+This [jupyter files](notebooks) contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, You can preview this file using nbviewer. 
