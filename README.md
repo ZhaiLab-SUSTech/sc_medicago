@@ -17,4 +17,4 @@
 
 This [jupyter files](notebooks) contains the scripts needed for downstream analysis. Github often fails to preview large jupyter files, You can preview this file using nbviewer. 
 
-The processed data can be accessed at [OMIX database](https://ngdc.cncb.ac.cn/omix/view/OMIX004822)
+The processed data can be accessed at [OMIX database](https://ngdc.cncb.ac.cn/omix/release/OMIX004822)
